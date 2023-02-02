@@ -1,0 +1,183 @@
+body {
+    text-align: center;
+    margin:0;
+}
+.Audiowide {
+    font-family: "Audiowide", sans-serif;
+}
+.top {
+    background-color: #EB455F;
+    text-align: center;
+    background-image: url(../images/desert2.png);
+    background-position: bottom;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.top1 {
+    background-color: #EB455F;
+    background-image: url(../images/desert2.png);
+    background-position: bottom;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.headshot {
+    border-radius: 80px;
+}
+.middle {
+    background-color: #FCFFE7;
+}
+.bottom{
+    border-width: 4px;
+    border-style:solid;
+    border-color: #87A2FB;
+    text-align: center;
+    background-color: #BAD7E9;
+}
+a{
+    color: #6F38C5;
+    text-decoration: none;
+}
+.papyrus {
+    font-family: Papyrus, fantasy;
+}
+.card {
+    box-shadow: 0 80px 240px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    width:40%;
+    background-color: #FFEBB7;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    font-family: Bradley Hand, cursive;
+}
+    
+    /* Add rounded corners to the top left and the top right corner of the image */
+img {
+border-radius: 5px 5px 0 0;
+}
+
+a:hover {
+    color:red;
+}
+h1, h2, h3 {
+    font-family: Papyrus, fantasy;
+}
+p{
+    font-family: Bradley Hand, cursive;
+}
+.list {
+    font-family: Bradley Hand, cursive;
+    float:right;
+    margin-right:40%;
+}
+img.leftImage {
+    width: 20%;
+    height: 20%;
+    float:right;
+    margin-right:100px auto;
+}
+.column1 {
+    display: inline-block;
+}
+h1{
+    margin:0;
+    font-size: 100px;
+    color: antiquewhite;
+}
+.brighth1 {
+    margin:0;
+    font-size: 100px;
+    color: #FDB813;
+}
+h2.special {
+    margin:0;
+    color:bisque;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+a.button{
+    font-family: Papyrus, fantasy;
+    font-size: 30px;
+    background-color: #FFEBB7;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+hr.desert {
+    border:0;
+    height: 100px;
+    background-image:url('../images/desert.png');
+    background-repeat: no-repeat;
+    background-size: 1960px 100px;
+}
+hr.waves {
+    border:0;
+    height: 77.454px;
+    background-image:url('../images/pngwing.com.png');
+    background-repeat: repeat;
+    background-size: 322.87px 77.454px;
+    margin-left: auto;
+    margin-right: auto;
+}
+hr.style-six {
+    border: none;
+    height:150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../images/pngegg.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: center;
+}
+hr.styled {
+    border-style: dashed;
+}
+img.right {
+    size: 20%;
+    float:  right;
+}
+img.left {
+    width:20%;
+    height:20%;
+    float:  left;
+    margin-right: -500px;
+}
+.c1 {
+    
+    float: right;
+    margin-right: 38%;
+}
+.c2 {
+    float: left;
+    margin-left: 23%;
+    width: 20%;
+    height: 20%;
+}
+.inline1 {
+    display: inline-block;
+}
+.skills {
+    float:left;
+    margin-left: 37%;
+    font-family: "Audiowide",sans-serif;
+}
+.webDev {
+    width: 20%;
+    height: 20%;
+    float: right;
+    margin-right: 30%;
+}
+.Tangerine {
+    font-family: "Tangerine",serif;
+    font-size:xx-large;
+}
