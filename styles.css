@@ -8,14 +8,14 @@ body {
 .top {
     background-color: #EB455F;
     text-align: center;
-    background-image: url('desert2.png');
+    background-image: url(desert2.png);
     background-position: bottom;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .top1 {
     background-color: #EB455F;
-    background-image: url('desert2.png');
+    background-image: url(desert2.png);
     background-position: bottom;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -116,14 +116,14 @@ a.button{
 hr.desert {
     border:0;
     height: 100px;
-    background-image:url('desert.png');
+    background-image:url(desert.png);
     background-repeat: no-repeat;
     background-size: 1960px 100px;
 }
 hr.waves {
     border:0;
     height: 77.454px;
-    background-image:url('pngwing.com.png');
+    background-image:url(pngwing.com.png);
     background-repeat: repeat;
     background-size: 322.87px 77.454px;
     margin-left: auto;
@@ -134,7 +134,7 @@ hr.style-six {
     height:150px;
     margin-left: auto;
     margin-right: auto;
-    background-image: url('pngegg.png');
+    background-image: url(pngegg.png);
     background-repeat: no-repeat;
     background-size: 10%;
     background-position: center;
